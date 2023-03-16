@@ -1,3 +1,4 @@
+//c code to count number of set bits
 #include <stdio.h>
 
 int CountBits(unsigned int x) {
