@@ -24,7 +24,7 @@ int Parity(unsigned long long x) {
       count ^= (x&1);
       x>>=1;
   }
-  reutrn count;
+  return count;
   }*/
 int main()
 {
